@@ -1,0 +1,6 @@
+{
+  "port": 8080,
+  "mongoUri": "mongodb+srv://nikita:12231223@mern-app.uuk49.mongodb.net/app?retryWrites=true&w=majority",
+  "jwtSecret": "nikitadeveloper",
+  "baseUrl": "http://localhost:8080"
+}
